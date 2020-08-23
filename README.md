@@ -15,7 +15,7 @@ Animation face recognition
     c.Add pictures (currently 300 training sets)   
 ******************************************************   
 ### 0.第一步网络基于yolo3，第二步暂定使用resnet做面部对比   
-### 1.目前实现了第一步，检测出动漫人物的面部。第二步面部对比正在进行中,测试结果在output/samples/中      
+### 1.目前检测出动漫人物的面部。第二步面部对比正在进行中,测试结果在output/samples/中      
 ### 2.第一步改进策略:   
     a.anchor改进   
     b.NMS改进   
